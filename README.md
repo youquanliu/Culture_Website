@@ -41,6 +41,7 @@ https://www.vertabelo.com/blog/technical-articles/database-model-for-an-online-d
 
 Culture Exchange Website (Capstone Project)
 
+![MVC](https://i0.wp.com/krazytech.com/wp-content/uploads/Model-View-Controller-design-pattern-implementation-in-Java.png?w=597&ssl=1)
 
-https://i0.wp.com/krazytech.com/wp-content/uploads/Model-View-Controller-design-pattern-implementation-in-Java.png?w=597&ssl=1
+
 
