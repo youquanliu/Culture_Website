@@ -4,7 +4,7 @@ V2.5 Update: reading and writing work from the database now.
 The forum page got messed up when showing the forum posts from the DB. The side bar for filter is now under the forum posts and I could not figure out how to fix it.
 
 Event table needs pictures to be stored and we need to pull those pictures when displaying the events, each event has a temp picture displayed.
-When running the project check to see if the mysql-connector-java-5.1.45.jar file is in WEB-INF > lib. It seems to never come with the project. I've uploaded teh .jar file to the repo.
+When running the project check to see if the mysql-connector-java-5.1.45.jar file is in WEB-INF > lib. It seems to never come with the project. I've uploaded teh .jar file to the repo.  The databse i used is different from the DB Tiago used, Make sure your connection string has the correct name and that you rusername and password reflect what you have in PHPMyAdmin.
 
 
 
