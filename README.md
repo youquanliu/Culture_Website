@@ -1,4 +1,8 @@
 # Culture_Website
+V2.4 updates: added all current versions together. Events, Forum posts and users signup all store in Database.
+When running the project check to see if the mysql-connector-java-5.1.45.jar file is in WEB-INF > lib. It seems to never come with the project. I've uploaded it to the repo.
+
+
 culture-exchanges.com $11.77
 
 Database values and attributes
