@@ -1,4 +1,12 @@
 # Culture_Website
+
+V2.5 Update: reading and writing work from the database now.
+The forum page got messed up when showing the forum posts. The side bar for filter is now under the forum posts and I could not figure out how to fix it.
+
+Event table needs pictures to be stored and we need to pull those pictures when displaying the events, each event has a temp picture displayed.
+
+
+
 V2.4 updates: added all current versions together. Events, Forum posts and users signup all store in Database.
 When running the project check to see if the mysql-connector-java-5.1.45.jar file is in WEB-INF > lib. It seems to never come with the project. I've uploaded teh .jar file to the repo.
 
