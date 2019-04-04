@@ -1,5 +1,8 @@
 # Culture_Website
 
+
+ v2.6 is the version that we used for our presentation.
+
 V2.5 Update: reading and writing work from the database now.
 The forum page got messed up when showing the forum posts from the DB. The side bar for filter is now under the forum posts and I could not figure out how to fix it.
 
